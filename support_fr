@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Support - TonApp</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9fafb;
+      color: #111827;
+    }
+    header {
+      background: #1f2937;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    main {
+      max-width: 700px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      font-size: 1.4rem;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      line-height: 1.6;
+    }
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #f3f4f6;
+      font-size: 0.9rem;
+      color: #6b7280;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Support - Yumel 🎬</h1>
+    <p>Votre compagnon cinéma social</p>
+  </header>
+  <main>
+    <section>
+      <h2>📩 Contact</h2>
+      <p>
+        Pour toute question, bug ou suggestion, contactez-nous par email :
+        <a href="mailto:yumel.app@gmail.com">yumel.app@gmail.com</a>
+      </p>
+    </section>
+
+    <section>
+      <h2>❓ FAQ</h2>
+      <p><strong>Comment créer une liste de films ?</strong><br>
+      Ouvrez l’app, appuyez sur <em>“Nouvelle liste partagée”</em> puis ajoutez vos films favoris.</p>
+
+      <p><strong>Puis-je partager mes listes avec mes amis ?</strong><br>
+      Oui ! Il suffit d’aller sur votre liste et de sélectionner <em>“Partager”</em>.</p>
+
+      <p><strong>Je n’arrive pas à me connecter.</strong><br>
+      Vérifiez votre connexion internet et la dernière version de l’app. Si le problème persiste, contactez-nous.</p>
+    </section>
+
+    <section>
+      <h2>📜 Mentions légales</h2>
+      <p>
+        Yumel © 2025 — Tous droits réservés.<br>
+        Politique de confidentialité : <a href="https://tonapp.com/privacy">tonapp.com/privacy</a>
+      </p>
+    </section>
+  </main>
+  <footer>
+    Merci d’utiliser TonApp 🎬 — Le cinéma, enfin social 🍿
+  </footer>
+</body>
+</html>
